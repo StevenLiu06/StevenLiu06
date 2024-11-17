@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Steven Liu (Yuxuan Liu)
 - 👀 I’m interested in Machine Learning Systems
-- 🌱 I’m currently studying Electrical And Computer Engineering at ZJU-UIUC Institute
+- 🌱 I’m currently studying Electrical and Computer Engineering at Zhejiang University-University of Illinois Urbana-Champaign Institute
 - 💞️ I’m looking to collaborate on Computer Systems and Large Language Models (LLMs)
 - 📫 How to reach me: yuxuan.24@intl.zju.edu.cn
 - 😄 Pronouns: He/Him
