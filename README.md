@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Steven Liu (Yuxuan Liu)
-- 🌱 I’m currently studying Electrical and Computer Engineering at Zhejiang University-University of Illinois Urbana-Champaign Institute
+- 🌱 I’m currently studying Electrical and Computer Engineering at Zhejiang University
 - 📫 How to reach me: yuxuan.24@intl.zju.edu.cn
 - 😄 Pronouns: He/Him
 
